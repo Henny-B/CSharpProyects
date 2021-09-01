@@ -1,0 +1,20 @@
+C:\Users\Henny\source\repos\ViajesFinal\bin\Debug\ViajesFinal.exe.config
+C:\Users\Henny\source\repos\ViajesFinal\bin\Debug\ViajesFinal.exe
+C:\Users\Henny\source\repos\ViajesFinal\bin\Debug\ViajesFinal.pdb
+C:\Users\Henny\source\repos\ViajesFinal\obj\Debug\ViajesFinal.csproj.AssemblyReference.cache
+C:\Users\Henny\source\repos\ViajesFinal\obj\Debug\ViajesFinal.Form1.resources
+C:\Users\Henny\source\repos\ViajesFinal\obj\Debug\ViajesFinal.Properties.Resources.resources
+C:\Users\Henny\source\repos\ViajesFinal\obj\Debug\ViajesFinal.csproj.GenerateResource.cache
+C:\Users\Henny\source\repos\ViajesFinal\obj\Debug\ViajesFinal.csproj.CoreCompileInputs.cache
+C:\Users\Henny\source\repos\ViajesFinal\obj\Debug\ViajesFinal.exe
+C:\Users\Henny\source\repos\ViajesFinal\obj\Debug\ViajesFinal.pdb
+C:\Users\Henny\Desktop\UTN\4. Programación\Final\ViajesFinal\bin\Debug\ViajesFinal.exe.config
+C:\Users\Henny\Desktop\UTN\4. Programación\Final\ViajesFinal\bin\Debug\ViajesFinal.exe
+C:\Users\Henny\Desktop\UTN\4. Programación\Final\ViajesFinal\bin\Debug\ViajesFinal.pdb
+C:\Users\Henny\Desktop\UTN\4. Programación\Final\ViajesFinal\obj\Debug\ViajesFinal.csproj.AssemblyReference.cache
+C:\Users\Henny\Desktop\UTN\4. Programación\Final\ViajesFinal\obj\Debug\ViajesFinal.Form1.resources
+C:\Users\Henny\Desktop\UTN\4. Programación\Final\ViajesFinal\obj\Debug\ViajesFinal.Properties.Resources.resources
+C:\Users\Henny\Desktop\UTN\4. Programación\Final\ViajesFinal\obj\Debug\ViajesFinal.csproj.GenerateResource.cache
+C:\Users\Henny\Desktop\UTN\4. Programación\Final\ViajesFinal\obj\Debug\ViajesFinal.csproj.CoreCompileInputs.cache
+C:\Users\Henny\Desktop\UTN\4. Programación\Final\ViajesFinal\obj\Debug\ViajesFinal.exe
+C:\Users\Henny\Desktop\UTN\4. Programación\Final\ViajesFinal\obj\Debug\ViajesFinal.pdb
